@@ -75,7 +75,7 @@ window = tk.Tk()
 window.title("Random Word Generator")
 
 # Define the path to the document
-file_path = r"C:\Users\codys\OneDrive\Desktop\seed phrase random word generator.txt"
+file_path = r"ENTER NOTEPAD FILE PATH HERE**********"
 
 # Create a text widget to display the result
 result_text = tk.Text(window, height=10, width=40)
